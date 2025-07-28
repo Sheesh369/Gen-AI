@@ -1,0 +1,29 @@
+openai website -> model sections -> list of all models
+open source chatmodels
+-chatgpt by openai
+-claude by antropic
+-gemini by google
+
+opensource models
+are models that are trained and published on the internet which can be downlaoded to our local system and have full cintrol over it 
+provides full control (fine-tuning, modify , deploy  )
+no cost 
+provides data privacy (allows u to safely integrate ur data into the models)
+can later be deployed on ur server or cloud 
+open-source lang-models
+Llama 
+mistral 
+falcon 
+bloom
+
+huggingface is the platform where all these open source llms are hosted
+
+varies way to use opensource model
+-running locally
+-hf inference api 
+
+disadvantages of opensource
+required high hardware
+set up complexity 
+lack of RLHF( less refined, can be over come by fine tuning and human feedback)
+limiting multimodal capabilities
